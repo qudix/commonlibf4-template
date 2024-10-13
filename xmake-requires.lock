@@ -34,14 +34,6 @@
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
             version = "v1.13.0"
-        },
-        ["xbyak#31fecfc4"] = {
-            repo = {
-                branch = "master",
-                commit = "30bf09689d5f65e9ea4e3904ceb675f8f04f0789",
-                url = "https://github.com/xmake-io/xmake-repo.git"
-            },
-            version = "v7.06"
         }
     }
 }

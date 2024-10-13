@@ -27,8 +27,6 @@ If you want to redirect the build output, set one of or both of the following en
 
 - Path(s) to a Mod Manager mods folder: `XSE_FO4_MODS_PATH`
 
-> ***Note:*** *Both variables support semicolon (`;`) seperated paths for multiple game installs or `mods` folders.*
-
 ### Project Generation (Optional)
 If you want to generate a Visual Studio project, run the following command:
 ```bat
