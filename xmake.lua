@@ -13,12 +13,12 @@ set_license("GPL-3.0")
 set_languages("c++23")
 set_warnings("allextra")
 
+-- set policies
+set_policy("package.requires_lock", true)
+
 -- add rules
 add_rules("mode.debug", "mode.releasedbg")
 add_rules("plugin.vsxmake.autoupdate")
-
--- set policies
-set_policy("package.requires_lock", true)
 
 -- targets
 target("commonlibf4-template")
