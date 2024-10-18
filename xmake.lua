@@ -12,7 +12,6 @@ set_license("GPL-3.0")
 -- set defaults
 set_languages("c++23")
 set_warnings("allextra")
-set_defaultmode("releasedbg")
 
 -- add rules
 add_rules("mode.debug", "mode.releasedbg")
