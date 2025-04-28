@@ -8,7 +8,7 @@ This is a basic plugin template using CommonLibF4.
 
 ## Getting Started
 ```bat
-git clone --recurse-submodules https://github.com/qudix/commonlibf4-template
+git clone --recurse-submodules https://github.com/libxse/commonlibf4-template
 cd commonlibf4-template
 ```
 
