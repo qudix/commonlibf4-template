@@ -9,23 +9,14 @@
                 commit = "30bf09689d5f65e9ea4e3904ceb675f8f04f0789",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
-            version = "3.30.5"
+            version = "4.0.2"
         },
-        ["rsm-binary-io#31fecfc4"] = {
+        ["commonlib-shared 9f05bd7de2c8cdbbc3f15128f17e5f7b1c72bce0#0defcfe0"] = {
             repo = {
-                branch = "master",
-                commit = "30bf09689d5f65e9ea4e3904ceb675f8f04f0789",
-                url = "https://github.com/xmake-io/xmake-repo.git"
+                commit = "47eca6ffcb79208b9f757df369b2ddad322aac16",
+                url = "https://github.com/libxse/libxse-xrepo"
             },
-            version = "2.0.6"
-        },
-        ["rsm-mmio#31fecfc4"] = {
-            repo = {
-                branch = "master",
-                commit = "47937ca8008eb8f7fb0655af6d1c5c9c4235f00b",
-                url = "https://github.com/xmake-io/xmake-repo.git"
-            },
-            version = "2.0.0"
+            version = "9f05bd7de2c8cdbbc3f15128f17e5f7b1c72bce0"
         },
         ["spdlog#9c36f0a9"] = {
             repo = {
